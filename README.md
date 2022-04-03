@@ -107,7 +107,7 @@ Your bot should be now 24/7 online, it may go down sometimes but it will be very
 YOU NEED BASIC JAVASCRIPT KNOWLEDGE not only javascript generally basic coding knowledge, i've seen people asking stuff but it's them not knowing how to code, so pls, learn coding first, if you don't want to, im pretty sure there's plenty of ways to make a discord bot without coding, if you do have knowledge of coding and javascript keep reading
 
 ### How to create a command?
-You create a .js file on the Commands folder, and add this code inside:
+You create a .js file with the name of your command on the Commands folder, and add this code inside:
 
 ```js
 module.exports.run = (client, message, args) => {
