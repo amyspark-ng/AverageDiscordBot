@@ -10,7 +10,7 @@
 I made this repo as a little introduction for people who want to start making a discord bot using Discord.js V13, here's basically a collection of average commands most bots have, you can edit them and add yourself some with some code snippets i will explain later on.
 
 ### - ACLARATION
-EVERYTHING OF THIS IS BASED AROUND IMAGINEGAMINGPLAY'S SERIES ON HOW TO MAKE A DISCORD BOT if you don't want to follow along and just copy everything and replace stuff this is your place, you will get the series links here tho
+EVERYTHING OF THIS IS BASED AROUND [IMAGINEGAMINGPLAY](https://www.youtube.com/channel/UCzBQ65qoUGqNPcbiNQN2pJA)'S SERIES ON HOW TO MAKE A DISCORD BOT if you don't want to follow along and just copy everything and replace stuff this is your place, you will get the series links here tho
 
 - [How to make a discord bot without download anything](https://www.youtube.com/watch?v=1KVGyUemRy0&ab_channel=ImagineGamingPlay)
 - [Discord.js command handler](https://www.youtube.com/watch?v=1KVGyUemRy0&ab_channel=ImagineGamingPlay)
@@ -54,7 +54,7 @@ Now, you see the big black terminal thingy on the right? There should be a butto
 npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
 `
 
-^ Credits to ImageGamingPlay
+^ Credits to [ImageGamingPlay](https://www.youtube.com/channel/UCzBQ65qoUGqNPcbiNQN2pJA)
 
 Now wait a minute while it downloads and does stuff on it
 
