@@ -12,9 +12,9 @@ app.get("/", (req, res) => {
 // Libraries stuff
 const Discord = require("discord.js");
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
-
 const fs = require("fs")
-const PREFIX = "!"
+
+var PREFIX = "!"
 
 client.commands = new Discord.Collection()
 

@@ -13,6 +13,10 @@ I made this repo as a little introduction for people who want to start making a 
 ### - ACLARATION
 EVERYTHING OF THIS IS BASED AROUND [IMAGINEGAMINGPLAY](https://www.youtube.com/channel/UCzBQ65qoUGqNPcbiNQN2pJA)'S SERIES ON HOW TO MAKE A DISCORD BOT if you don't want to follow along and just copy everything and replace stuff this is your place, you will get the series links here tho
 
+ALSO in my opinion, you should make your own bot, i recommend to not use the source code of this one, because it ha a lot of wrongly made things and it's esentially not the best, it's hold with glue and duct-tape but it kinda works! i'll be updating it with time so that too
+
+To get some ids of user and stuff you need to have the developer mode on discord, do this going to settings > Advanced and click on DeveloperMode
+
 - [How to make a discord bot without download anything](https://www.youtube.com/watch?v=1KVGyUemRy0&ab_channel=ImagineGamingPlay)
 - [Discord.js command handler](https://www.youtube.com/watch?v=1KVGyUemRy0&ab_channel=ImagineGamingPlay)
 
@@ -151,4 +155,5 @@ So... Yeah! That's basically all, hope this helped you out or something, it's cu
 ## - TO-DO
 Here are some things that are missing on the commands stuff or general things
 
-- [ ] Add ban command and unban
+- [x] Add ban command and unban
+- [ ] Slash commands
