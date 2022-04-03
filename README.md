@@ -5,6 +5,7 @@
 - [How](#how)
 - [Code Stuff](#code-stuff)
 - [Sign off](#sign-off)
+- [TODO](#to-do)
 
 ## -Introduction
 I made this repo as a little introduction for people who want to start making a discord bot using Discord.js V13, here's basically a collection of average commands most bots have, you can edit them and add yourself some with some code snippets i will explain later on.
@@ -146,3 +147,8 @@ That some of the basics of Discord.JS, if you want to get more into you should c
 So... Yeah! That's basically all, hope this helped you out or something, it's currently like 2AM so if i missed anything or something broke or wharever, please let me know in a github issue
 
 —AmySparkNG
+
+## - TO-DO
+Here are some things that are missing on the commands stuff or general things
+
+- [ ] Add ban command and unban
